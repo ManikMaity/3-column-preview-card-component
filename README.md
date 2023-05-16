@@ -3,7 +3,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 <hr>
 
-### [Live Website](https://manikmaity.github.io/nft-preview-card-component/)
+### [Live Website](https://manikmaity.github.io/3-column-preview-card-component/)
 ### [Linkedin](https://www.linkedin.com/in/manikmaity/)
 <hr>
 
@@ -31,11 +31,10 @@ There are challenges in this projects -
 
 
 #### Mobile Preview
-
+<img src="https://github.com/ManikMaity/3-column-preview-card-component/assets/110734724/af95833a-fe68-4c40-9c8e-6ec337b738f3" width="200" />
 
 ### Links
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-![screencapture-file-C-Users-Manik-OneDrive-Desktop-Starting-Over-Again-3-column-preview-card-component-main-index-html-2023-05-16-11_18_18](https://github.com/ManikMaity/3-column-preview-card-component/assets/110734724/af95833a-fe68-4c40-9c8e-6ec337b738f3)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/ManikMaity)
 
 
 ## My process
